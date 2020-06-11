@@ -27,7 +27,7 @@ or
 
 or
 
-[Referal link](README.md "Referal link")
+[Referal link](README.md "Refers to a file within the repo")
 
 
 ### Username @mentions
