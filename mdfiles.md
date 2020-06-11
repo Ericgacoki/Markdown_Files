@@ -14,28 +14,28 @@ _Italics_
 val language = "Kotlin"
 var len = language.trim().length()
 ```
+## Link
+[click here]("https://developer.android.com/coroutines" "Kotlin Coroutines")
 
-[click this link]("https://developer.android.com/coroutines" "Kotlin Coroutines")
-
-> image
+## image
 
 ![Image](https://image.shutterstock.com/image-photo/image-260nw-1418646482.jpg "sample image")
 
-> // keywords
+## keywords
 
 `for` (item `in` allItems){...}
 
-tables
+## tables
 
-| Table | Kotlin | Java |
-|  ---  |  ---   | ---  |
-| Table | Kotlin | Java |
-| Table | Kotlin | Java |
+| H1      |   H2  |   H3   |
+|   ---   |  ---  |  ---   |
+| Android |  Is   |   Fun  |
+| Go      |  Try  |    It  |
 
->code
+> one line code
 
-hr bold line
-___
+
+## Lists
 
 1. list one 
 2. list two
@@ -46,6 +46,10 @@ ___
 
 4. list four
 
-hr line
+hr line1
+___
+
+
+hr line2
 
 ***
