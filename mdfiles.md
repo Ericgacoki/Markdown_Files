@@ -14,19 +14,21 @@ _Italics_
 val language = "Kotlin"
 var len = language.trim().length()
 ```
-## Link
+### Link
 
-[click here]("https://kotlinlang.org/" "Kotlin Programming language")
 
-## image
+[Click here]("https://kotlinlang.org/")
+
+
+### image
 
 ![Image](https://image.shutterstock.com/image-photo/image-260nw-1418646482.jpg "sample image")
 
-## keywords
+### keywords
 
 `for` (item `in` allItems){...}
 
-## tables
+### tables
 
 | H1      |   H2  |   H3   |
 |   ---   |  ---  |  ---   |
