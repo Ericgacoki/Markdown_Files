@@ -49,11 +49,13 @@ checkered :checkered_flag:
 
 rainbow :rainbow_flag:
 
-countries 
+**countries** 
 
 Kenya :kenya:
 
 Malaysia :malaysia:
+
+## see more emojis [from github emoji API](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#github-custom-emoji "Github Emojis")
 
 ### image
 
@@ -65,10 +67,10 @@ Malaysia :malaysia:
 
 ### tables
 
-| H1      |   H2  |   H3   |
-|   ---   |  ---  |  ---   |
-| Android |  Is   |   Fun  |
-| Go      |  Try  |    It  |
+|                H1      |   H2  |    H3    |
+|                  ---   |  ---  |   ---    |
+| :technologist: Android |  Is   |    Fun   |
+|                Go      |  Try  |It :wink: |
 
 ### Blockquotes
 
