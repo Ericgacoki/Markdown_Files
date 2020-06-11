@@ -15,11 +15,29 @@ _Italics_
 val language = "Kotlin"
 var len = language.trim().length()
 ```
-### Link
+### Links
+
+https://kotlinlang.org/
+
+or
+
+[Click here](https://kotlinlang.org/  "Normal link")
+
+or
+
+[Referal link](mdfiles.md "Referal link")
 
 
-[Click here](https://kotlinlang.org/  "Kotlin Programming language")
+### Username @mentions
+@Ericgacoki
 
+### Emojis
+
+:basecampy:
+
+:goberserk:
+
+:shipit:
 
 ### image
 
