@@ -1,25 +1,29 @@
 
-# Text1
+# Heading 1
 
-## Text2
+## Heading 2
 
-~~1234~~
+~~1234~~ 1000
 
 _Italics_
 
 **Bold** 
-
+ 
 ```Kotlin
-val code = "code"
-consore.name(code)
-
+// snippet
+val language = "Kotlin"
+var len = language.trim().length()
 ```
 
-[Coroutines link]("https://developer.android.com/coroutines" "Kotlin Coroutines")
+[click this link]("https://developer.android.com/coroutines" "Kotlin Coroutines")
 
-![Image](https://android.images/logo "logo")
+> image
 
-all `for` items
+![Image](https://image.shutterstock.com/image-photo/image-260nw-1418646482.jpg "sample image")
+
+> // keywords
+
+`for` (item `in` allItems){...}
 
 tables
 
