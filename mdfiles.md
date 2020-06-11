@@ -15,7 +15,8 @@ val language = "Kotlin"
 var len = language.trim().length()
 ```
 ## Link
-[click here]("https://developer.android.com/coroutines" "Kotlin Coroutines")
+
+[click here]("https://kotlinlang.org/" "Kotlin Programming language")
 
 ## image
 
