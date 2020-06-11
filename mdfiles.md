@@ -3,17 +3,17 @@
 
 ## Heading 2
 
-~~1234~~ 1000
+~~1234~~ 
 
 _Italics_
 
 **Bold** 
  
 ```Kotlin
-// snippet
+// code snippet
 
-val language = "Kotlin"
-var len = language.trim().length()
+var language = "Kotlin "
+val len = language.trim().length()
 ```
 ### Links
 
@@ -33,13 +33,23 @@ or
 
 ### Emojis
 
-:basecampy:
+basecampy    :basecampy:
 
-:goberserk:
+goberserk    :goberserk:
 
-:shipit:
+shipit       :shipit:
 
 ### Flags
+
+pirate :pirate_flag:
+
+crossed :crossed_flags:
+
+checkered :checkered_flag:
+
+rainbow :rainbow_flag:
+
+countries 
 
 Kenya :kenya:
 
