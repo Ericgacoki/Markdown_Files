@@ -11,13 +11,14 @@ _Italics_
  
 ```Kotlin
 // snippet
+
 val language = "Kotlin"
 var len = language.trim().length()
 ```
 ### Link
 
 
-[Click here]("https://kotlinlang.org/")
+[Click here](https://kotlinlang.org/  "Kotlin Programming language")
 
 
 ### image
@@ -26,7 +27,7 @@ var len = language.trim().length()
 
 ### keywords
 
-`for` (item `in` allItems){...}
+`for` (item `in` items){ `if` ...}
 
 ### tables
 
@@ -35,8 +36,25 @@ var len = language.trim().length()
 | Android |  Is   |   Fun  |
 | Go      |  Try  |    It  |
 
-> one line code
+### Blockquotes
 
+> this is a block quote
+
+### colors
+
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+
+
+```diff
+ colored text
+ 
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
 
 ## Lists
 
