@@ -39,6 +39,12 @@ or
 
 :shipit:
 
+### Flags
+
+Kenya :kenya:
+
+Malaysia :malaysia:
+
 ### image
 
 ![Image](https://image.shutterstock.com/image-photo/image-260nw-1418646482.jpg "sample image")
