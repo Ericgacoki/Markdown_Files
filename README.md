@@ -27,7 +27,7 @@ or
 
 or
 
-[Referal link](mdfiles.md "Referal link")
+[Referal link](README.md "Referal link")
 
 
 ### Username @mentions
