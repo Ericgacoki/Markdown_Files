@@ -9,7 +9,7 @@
 
 _Italics_
 
-**Bold** 
+**Bold Text** 
  
 ```Kotlin
 // code snippet
