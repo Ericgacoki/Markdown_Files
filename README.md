@@ -105,10 +105,10 @@ Malaysia :malaysia:
 
 4. list four
 
-hr line1
+hr line1 .
 ___
 
 
-hr line2
+hr line2 .
 
 ***
