@@ -1,6 +1,6 @@
 ## Write attractive md (ReadMe) files for your repos
 
-You should try some of these techniques 
+You should try some of these
 
 
 # Heading 1
