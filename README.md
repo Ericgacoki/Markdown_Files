@@ -32,7 +32,7 @@ or
 
 
 ### Username @mentions
-@Ericgacoki
+@Ericgacok
 
 ### Emojis
 
