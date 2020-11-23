@@ -15,8 +15,8 @@ _Italics_
 ```Kotlin
 // code snippet
 
-var language = "Kotlin "
-val len = language.trim().length()
+ var language = "Kotlin "
+ val len = language.trim().length()
 ```
 ### Links
 
