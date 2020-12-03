@@ -1,7 +1,5 @@
 ## Write attractive md (ReadMe) files for your repos
 
-
-
 # Heading 1
 
 ## Heading 2
