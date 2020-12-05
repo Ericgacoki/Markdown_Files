@@ -64,7 +64,7 @@ Malaysia :malaysia:
 
 ### keywords
 
-`for` (item `in` items){ `if` ...}
+`for` (item `in` items){ `if` ... }
 
 ### tables
 
