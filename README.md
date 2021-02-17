@@ -50,7 +50,7 @@ pirate :pirate_flag:
 crossed :crossed_flags:
 
 checkered :checkered_flag:
-
+traffic :traffic_flag:
 rainbow :rainbow_flag:
 
 **countries** 
