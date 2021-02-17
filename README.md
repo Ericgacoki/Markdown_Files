@@ -86,6 +86,7 @@ Malaysia :malaysia:
 
 ```diff
  colored text
+
  
 - text in red
 + text in green
@@ -102,7 +103,7 @@ Malaysia :malaysia:
 - bullet1
 - bullet2
 
-4. list four
+4. list fourHello
 
 hr line1 .
 ___
