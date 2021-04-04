@@ -4,7 +4,7 @@
 My-forked-code
 MY HEADING @ jairussss
 
-# Heading 1
+# Heading 1.
 
 ## Heading 2.
 ##heading
